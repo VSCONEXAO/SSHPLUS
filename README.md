@@ -9,3 +9,4 @@ wget https://raw.githubusercontent.com/VSCONEXAO/SSHPLUS/main/senharoot.sh && ch
 # SSHPLUS
 # SSHPLUS
 # SSHPLUS
+# SSHPLUS
